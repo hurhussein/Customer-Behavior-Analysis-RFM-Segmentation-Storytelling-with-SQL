@@ -4,8 +4,8 @@
 This **Online Retail Data Analysis** project uses SQL to uncover insights about customer behavior and sales trends, offering actionable insights for the retail sector.
 
 ## 📂 Files Included
-- **`Online_Retail_Data.csv`**: Transactional dataset containing fields such as `InvoiceNo`, `CustomerID`, `Quantity`, `UnitPrice`, `InvoiceDate`, and `Country`.
-- **`Data_Description.md`**: Description of each column in the dataset.
+- **`Online_Retail_Data.txt`**: Transactional dataset containing fields such as `InvoiceNo`, `CustomerID`, `Quantity`, `UnitPrice`, `InvoiceDate`, and `Country`.
+- **`Data_Description.pdf`**: Description of each column in the dataset.
 - **`Analysis_Queries.sql`**: SQL queries addressing various retail use cases.
 - **`Use_Case_Details.md`**: Business context for each SQL query.
 
